@@ -1,2 +1,7 @@
-# flying 酷酷的鹏sir
-这里是我的个人简介
+#Hi Bro 👋
+我叫 flying，目前是一名后端（Java）开发工程师
+
+我喜欢：
+
+📫 我的邮箱：qingkunpeng@qq.com
+🏠 我的博客：
